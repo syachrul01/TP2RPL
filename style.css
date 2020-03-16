@@ -1,0 +1,16 @@
+.h3{
+	margin-top: 15%;
+}
+
+.app{
+	background-color: lightblue;
+}
+
+.wrapper{
+	margin-top: 10%;
+	margin-bottom: 150%;
+}
+
+.warning{
+	display: none;
+}
